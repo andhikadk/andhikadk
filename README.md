@@ -40,6 +40,3 @@
 
 ## Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=andhikadk&theme=dark)](https://git.io/streak-stats)
-
-## Stats
-![Andhika's GitHub stats](https://github-readme-stats.vercel.app/api?username=andhikadk&show_icons=true&theme=dark)
