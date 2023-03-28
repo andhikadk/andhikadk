@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andhikadk&label=Profile%20views&color=0e75b6&style=flat" alt="andhikadk" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack** and **TailwindCSS**
+- 🌱 I’m currently learning **Next JS**
 
 ## Connect with me:
 <p align="left">
