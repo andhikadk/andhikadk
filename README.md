@@ -7,7 +7,7 @@
 
 ## Connect with me:
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/andhikadk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andhikadk" height="30" width="40" /></a>
 <a href="https://instagram.com/jriff_andhika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jriff_andhika" height="30" width="40" /></a>
 <a href="https://andhikadk.my.id" target="blank"><img align="center" src="https://andhika.vercel.app/favicon.png" alt="andhika dwi khalisyahputra" height="30" width="30" /></a>
