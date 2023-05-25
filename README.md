@@ -8,20 +8,22 @@
 ## Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/andhikadk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andhikadk" height="30" width="40" /></a>
-<a href="https://instagram.com/jriff_andhika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jriff_andhika" height="30" width="40" /></a>
-<a href="https://andhikadk.my.id" target="blank"><img align="center" src="https://andhika.vercel.app/favicon.png" alt="andhika dwi khalisyahputra" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/andhikadk" target="blank"><img align="center" src="https://www.linkedin.com/favicon.ico" alt="andhikadk" height="30" width="30" /></a>
+<a href="https://andhikadk.my.id" target="blank"><img align="center" src="https://andhikadk.my.id/favicon.ico" alt="andhika dwi khalisyahputra" height="30" width="30" /></a>
 </p>
 
 ## Tech Stack
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+<br>
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -33,3 +35,7 @@
 ## Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=andhikadk&theme=dark)](https://git.io/streak-stats)
+
+## Stats
+
+[![Andhika's GitHub stats](https://github-readme-stats.vercel.app/api?username=andhikadk&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
