@@ -26,6 +26,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+<details>
+<p align="center">
+
 ## Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andhikadk&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -37,3 +40,7 @@
 ## Stats
 
 [![Andhika's GitHub stats](https://github-readme-stats.vercel.app/api?username=andhikadk&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+</details>
+
+
