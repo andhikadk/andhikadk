@@ -37,15 +37,15 @@
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andhikadk&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![andhikadk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andhikadk&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=andhikadk&theme=dark)](https://git.io/streak-stats)
+![andhikadk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=andhikadk&theme=dark&hide_border=true)
 
 ## Stats
 
-[![Andhika's GitHub stats](https://github-readme-stats.vercel.app/api?username=andhikadk&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![andhikadk's Stats](https://github-readme-stats.vercel.app/api?username=andhikadk&theme=dark&show_icons=true&hide_border=true&count_private=true)
 </p>
 </details>
 
