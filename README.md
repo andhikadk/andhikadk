@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andhika Dwi Khalisyahputra</h1>
-<h3 align="center">Fullstack Engineer | Tech Enthusiast</h3>
+<h3 align="center">Backend Engineer | Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andhikadk&label=Profile%20views&color=0e75b6&style=flat" alt="andhikadk" /> </p>
 
