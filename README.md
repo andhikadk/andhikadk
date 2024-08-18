@@ -52,7 +52,7 @@
 
 ## Stats
 
-![andhikadk's Stats](https://github-readme-stats.vercel.app/api?username=andhikadk&theme=dark&show_icons=true&hide_border=true)
+![andhikadk's Stats](https://github-readme-stats.andhika.net/api?username=andhikadk&theme=dark&show_icons=true&hide_border=true)
 </p>
 </details>
 
