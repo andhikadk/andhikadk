@@ -7,7 +7,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/andhikadk" target="blank"><img align="center" src="https://www.linkedin.com/favicon.ico" alt="andhikadk" height="30" width="30" /></a>
-<a href="https://andhikadk.my.id" target="blank"><img align="center" src="https://andhikadk.my.id/favicon.ico" alt="andhika dwi khalisyahputra" height="30" width="30" /></a>
+<a href="https://andhika.net" target="blank"><img align="center" src="https://andhika.net/favicon.ico" alt="andhika dwi khalisyahputra" height="30" width="30" /></a>
 </p>
 
 ## Tech Stack
