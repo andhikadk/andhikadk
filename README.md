@@ -43,17 +43,10 @@
 <details>
 <p align="center">
 
-## Top Languages
-
-![andhikadk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andhikadk&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
 ## Streak
 
 ![andhikadk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=andhikadk&theme=dark&hide_border=true)
 
-## Stats
-
-![andhikadk's Stats](https://github-readme-stats.vercel.app/api?username=andhikadk&theme=dark&show_icons=true&hide_border=true)
 </p>
 </details>
 
