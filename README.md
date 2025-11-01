@@ -45,7 +45,7 @@
 
 ## Top Languages
 
-![andhikadk's Top Languages](https://github-readme-stats.andhika.net/api/top-langs/?username=andhikadk&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![andhikadk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andhikadk&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Streak
 
@@ -53,7 +53,7 @@
 
 ## Stats
 
-![andhikadk's Stats](https://github-readme-stats.andhika.net/api?username=andhikadk&theme=dark&show_icons=true&hide_border=true)
+![andhikadk's Stats](https://github-readme-stats.vercel.app/api?username=andhikadk&theme=dark&show_icons=true&hide_border=true)
 </p>
 </details>
 
